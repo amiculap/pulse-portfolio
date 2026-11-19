@@ -7,7 +7,7 @@
 **Premium FiveM scripts, custom servers and Discord bots.**
 Clean code, modern interfaces, real support.
 
-[**Discord**](https://discord.gg/HmjEXhPF3Q) &nbsp;•&nbsp; [**Open a ticket to buy**](https://discord.gg/HmjEXhPF3Q)
+[**Discord**](https://discord.gg/czRymmEfuS) &nbsp;•&nbsp; [**Open a ticket to buy**](https://discord.gg/czRymmEfuS)
 
 </div>
 
@@ -66,7 +66,7 @@ Every product is tested, comes with support after purchase and free updates for 
 
 ## How to buy
 
-1. Join the [Discord server](https://discord.gg/HmjEXhPF3Q)
+1. Join the [Discord server](https://discord.gg/czRymmEfuS)
 2. Open a ticket in **#tickets**
 3. Tell us what you need and get the details
 4. Pay and receive your files
